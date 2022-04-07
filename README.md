@@ -1,2 +1,3 @@
 # artificial-intelligence
 Tugas 1 AI
+Genetic Algorithm (GA) adalah sebuah algoritma untuk memecahkan masalah pencarian nilai dalam sebuah masalah optimasi, yang didasarkan pada mekanisme seleksi alam dan genetika alam. Seperti perkembangan generalisasi dalam sebuah populasi yang alami dengan prinsip seleksi alam yaitu “survive”. Algoritma Genetika bekerja dengan individu-individu yang membentuk populasi, individu merepresentasikan sebuah nilai fitness, pertahanan dari individu dapat melakukan perkawinan silang dengan individu lain dan menghasilkan individu baru sebagai keturunannya yang membawa sifat dari induknya.
